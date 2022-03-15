@@ -32,14 +32,14 @@ npm install
 
 First of all you need to change the network:
 
-https://aurora.dev/start
+Rinkeby testNetWork
 
 Then, Enter the webpage and select the Aurora Network test network and click Add network
 
 The following is the corresponding address of the contract in the test network
-- ERC20FACTORY : 0x12bC5979b3FC62a37cB315df3Ac3A5cA44883276 
-- CREATPOOL : 0xD74BCC7c6CD8c59Ba7414dE1797ecE9edB8baA39 
-- CREATTOKENEXCHANGE : 0x2473559c1690B1F4f5387C5c646e1b6b8Fc8100a 
-- TOKEN_A : 0xd9340d89ac32cBCa6B598127364F46402E399362 
-- TOKEN_B : 0x47A6815030E2706b7D2A67113b9aac5e5C10Ed1E 
+- ERC20FACTORY : 0x39d3f5cA0D1E7840C6b3A324d3A9c7679F4efd06 
+- CREATPOOL : 0x8518Ead054286fC73a76bea45732f050853eCB54 
+- CREATTOKENEXCHANGE : 0xBf9baf149Ea8e102926C4BfAc22e25979bAdABa8 
+- SEED : 0x2a096314e6551823FA462831D668cC0E11aAC790 
+- SEED_EX : 0x3778fDF0Eef96BD5cE189A9057AB6A40165B5A03 
 
