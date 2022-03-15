@@ -4,9 +4,9 @@ import vault from "./data/vault.json"
 import erc20 from "./data/erc20.json"
 import creatTokenExchange from "./data/creatTokenExchange.json"
 const CONTRACTS = {
-    creatTokenExchange:{address:"0x2473559c1690B1F4f5387C5c646e1b6b8Fc8100a",abi:creatTokenExchange},
+    creatTokenExchange:{address:"0x8518Ead054286fC73a76bea45732f050853eCB54",abi:creatTokenExchange},
 
-    daoFactory:{address:"0xa844BbBC8cEb184f8D20613dF8869628c1f305c2",abi:daoFactory},
+    daoFactory:{address:"0xBf9baf149Ea8e102926C4BfAc22e25979bAdABa8",abi:daoFactory},
     daoManage:{abi:daoManage},
     vault:{abi:vault},
     erc20:{abi:erc20},
