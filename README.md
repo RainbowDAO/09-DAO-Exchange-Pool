@@ -1,4 +1,3 @@
-# Submission for the ETHDenver 2022 Virtual BUIDLathon
 
 ## 1.Project name
 
@@ -14,25 +13,23 @@ Rainbowcity Foundation
 
 ## 4.Submission links
 
-In this ETHDenver 2022 Virtual BUIDLathon event, RainbowCity Foundation submitted a total of 10 projects, which is the  address directory of the 10 projects. We are continuing to refine the details of each project.
-
 Submission address directory:
-http://www.rainbowdao.io/ETHDanver2022
+http://www.rainbowdao.io/project
 
 Project demo website:
-https://expoolethdanver.rainbowdao.io/
+https://expool.rainbowdao.io/
 
 GitHub repository:
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool
 
 Solidity-Version-contract (GitHub):
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/tree/main/Solidity-contract
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool/tree/main/Solidity-contract
 
 Frontend code (GitHub):
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/tree/main/Front-end
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool/tree/main/Front-end
 
 Picture (GitHub):
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/tree/main/PIC
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool/tree/main/PIC
 
 ## 5.Recorded video demo
 
@@ -61,10 +58,10 @@ SEED_EX :
 0x3778fDF0Eef96BD5cE189A9057AB6A40165B5A03
 
 Frontend docs:
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/blob/main/Front-end/README.md
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool/blob/main/Front-end/README.md
 
 Contract  docs:
-https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/blob/main/Solidity-contract/README.md
+https://github.com/RainbowDAO/09-DAO-Exchange-Pool/blob/main/Solidity-contract/README.md
 
 ## 7.Project social media:
 
@@ -96,7 +93,7 @@ This DAO exchange pool model system is for various types of DAO organizations to
 
 ## 3.How we built it
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/Logic-diagram.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/Logic-diagram.png)
 
 Introduction to the function steps of the DAO exchange pool model system:
 
@@ -115,46 +112,46 @@ Introduction to the function steps of the DAO exchange pool model system:
 ## 1-Basic-Information
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/1-Basic-Information.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/1-Basic-Information.png)
 
 
 ## 2-Confirmation-Token
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/2-Confirmation-Token.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/2-Confirmation-Token.png)
 
 
 ## 3-Exchange-Time
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/3-Exchange-Time.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/3-Exchange-Time.png)
 
 
 ## 4-Sell-Tokens
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/4-Sell-Tokens.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/4-Sell-Tokens.png)
 
 
 ## 5-Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/5-Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/5-Home.png)
 
 
 ## 6-Info
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/6-Info.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/6-Info.png)
 
 
 ## 7-Exchange
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/7-Exchange.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/7-Exchange.png)
 
 
 ## 8-Withdraw
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool/main/PIC/8-Withdraw.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/09-DAO-Exchange-Pool/main/PIC/8-Withdraw.png)
