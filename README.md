@@ -17,7 +17,7 @@ Submission address directory:
 http://www.rainbowdao.io/project
 
 Project demo website:
-https://expool.rainbowdao.io/
+https://expool.rainbowdao.io/#/
 
 GitHub repository:
 https://github.com/RainbowDAO/09-DAO-Exchange-Pool
