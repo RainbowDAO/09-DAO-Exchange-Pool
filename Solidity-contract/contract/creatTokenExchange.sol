@@ -65,7 +65,6 @@ contract creatTokenExchange {
         TransferHelper.safeTransfer(_Rbt, msg.sender, value/5);
         Record memory recordrec = Record({
         startTime : block.timestamp,
-        endTime : block.timestamp + lockTime,
         amount : value ,
         price : exchangeRate,
         extracted : 0,
