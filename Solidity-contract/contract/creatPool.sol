@@ -5,13 +5,13 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "./creatTokenExchange.sol";
 
 contract creatPool is Ownable{
-    address public pool;
+    address[] public pool;
     
-    mapping(address => address) public poolOwner;
+    mapping(address => pool) public poolOwner;
     
     function init(address seed, address token, address user)public  onlyOwner{
         pool = address(new creatTokenExchange(seed ,token, user));
-        poolOwner[user] = pool;
+        poolOwner[user].push(pool);
     }
     function setLockTime(uint lockTime) public {
         creatTokenExchange(pool).setLockTime(lockTime);
