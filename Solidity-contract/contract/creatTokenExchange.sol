@@ -29,6 +29,7 @@ contract creatTokenExchange {
     address public _RBT_SEED;
     address public _Rbt;
     address public admin;
+    address public createContract;
     uint public exchangeRate;
     constructor (
         address seed,
@@ -54,9 +55,12 @@ contract creatTokenExchange {
     }
   
     function setExchangeRate(uint rate) external  {
+        require(msg.sender == createContract, "callback is not creater");
         exchangeRate = rate;
     }
     function setLockTime(uint _lockTime) external {
+        require(msg.sender == createContract, "callback is not creater");
+    
         lockTime = _lockTime;
     }
     function exchange(uint value ) public {
