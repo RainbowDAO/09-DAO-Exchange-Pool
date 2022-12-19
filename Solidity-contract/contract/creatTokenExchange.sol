@@ -2,6 +2,7 @@ pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 import "../lib/TransferHelper.sol";
 
 
@@ -40,11 +41,7 @@ contract creatTokenExchange {
         _Rbt = token;
         admin = Aadmin;
     }
-    modifier onlyAdmin {
-        require(msg.sender == admin , "you are not admin");
-        _;
-        
-    }
+
     function setBaseInfo(string memory pname,string memory logoUrl,string memory _introduction,address tokenAddr,uint _Stime,uint _Etime) external{
         poolName = pname;
          logo = logoUrl;
